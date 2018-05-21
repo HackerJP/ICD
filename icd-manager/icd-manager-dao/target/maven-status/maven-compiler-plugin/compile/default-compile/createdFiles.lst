@@ -1,0 +1,11 @@
+com\icd\mapper\TbItemDescMapper.class
+com\icd\mapper\TbItemParamMapper.class
+com\icd\mapper\TbOrderItemMapper.class
+com\icd\mapper\TbItemCatMapper.class
+com\icd\mapper\TbItemParamItemMapper.class
+com\icd\mapper\TbContentCategoryMapper.class
+com\icd\mapper\TbContentMapper.class
+com\icd\mapper\TbItemMapper.class
+com\icd\mapper\TbOrderShippingMapper.class
+com\icd\mapper\TbOrderMapper.class
+com\icd\mapper\TbUserMapper.class
