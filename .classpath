@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="icd-common/src/main/java"/>
+	<classpathentry kind="src" path="icd-content-login/src/main/java"/>
+	<classpathentry kind="src" path="icd-content/icd-content-interface/src/main/java"/>
+	<classpathentry kind="src" path="icd-content/icd-content-service/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager-web/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager-web/target/tomcat/work/Tomcat/localhost/_"/>
+	<classpathentry kind="src" path="icd-manager/icd-manager-dao/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager/icd-manager-interface/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager/icd-manager-pojo/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager/icd-manager-service/src/main/java"/>
+	<classpathentry kind="src" path="icd-manager/icd-manager-service/src/test/java"/>
+	<classpathentry kind="src" path="icd-portal-web/src/main/java"/>
+	<classpathentry kind="src" path="icd-portal-web/target/tomcat/work/Tomcat/localhost/_"/>
+	<classpathentry kind="lib" path="icd-common/target/icd-common.jar"/>
+	<classpathentry kind="output" path="icd-common/target/classes"/>
+</classpath>
